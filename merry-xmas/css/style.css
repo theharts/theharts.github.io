@@ -47,6 +47,7 @@
   width: 100%;
   z-index: 3;
   text-align: center;
+  font-size: 50px;
 }
 .xmas .from div {
   font-family: "quimby-mayoral", sans-serif;
