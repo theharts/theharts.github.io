@@ -2,7 +2,7 @@
   height: 100%;
   width: 100%;
   position: relative;
-  background: url("images/xmas-large.jpg") no-repeat 0 0/cover;
+  background: url("./images/xmas-large.jpg") no-repeat 0 0/cover;
 }
 .xmas .to {
   position: absolute;
