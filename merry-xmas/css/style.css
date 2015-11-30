@@ -2,7 +2,7 @@
   height: 100%;
   width: 100%;
   position: relative;
-  background: url("http://craftedbygc.com/images/xmas-large.jpg") no-repeat 0 0/cover;
+  background: url("images/xmas-large.jpg") no-repeat 0 0/cover;
 }
 .xmas .to {
   position: absolute;
@@ -47,11 +47,12 @@
   width: 100%;
   z-index: 3;
   text-align: center;
+  font-size: 50px;
 }
 .xmas .from div {
   font-family: "quimby-mayoral", sans-serif;
   color: #34A65F;
-  font-size: 40px;
+  font-size: 60px;
   margin-bottom: 10px;
 }
 .xmas .from .gc-link {
